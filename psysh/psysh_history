@@ -1,0 +1,2 @@
+$tenant1 = App\Models\Tenant::create(['id' => 'foo']);
+$tenant1->domains()->create(['domain' => 'foo.localhost']);
