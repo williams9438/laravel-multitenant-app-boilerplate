@@ -55,7 +55,7 @@ This is a boilerplate to create a multitenant app in laravel with docker setup a
 - make dev-exec
 - make dev-stop
 - make dev-composer-install
-- dev-migrate
+- make dev-migrate
 
 
 
