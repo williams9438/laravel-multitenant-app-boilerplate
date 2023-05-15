@@ -15,6 +15,10 @@
                     @endif
 
                     {{ __('You are logged in!') }}
+                    <example-component 
+                        tenant="testing" 
+                        message="Welcome to Multitanant App Home page"
+                    ></example-component>
                 </div>
             </div>
         </div>
