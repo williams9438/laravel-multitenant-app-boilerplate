@@ -31,7 +31,7 @@ This is a boilerplate to create a multitenant app in laravel with docker setup a
     - RUN: $tenant1->domains()->create(['domain' => 'foo.localhost']);
     - Note: Afer creation the goto E.g http://foo.localhost:82/
 
-[Command sample](tinker.png)
+![image description]tinker.png)
 
 ## Prerequisite
 - Install Docker
