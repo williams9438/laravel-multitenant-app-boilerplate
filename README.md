@@ -48,5 +48,14 @@ This is a boilerplate to create a multitenant app in laravel with docker setup a
 
 `Note: All the above services is run with one command `
 
+## All command
+- make dev-start
+- make dev-shell
+- make dev-artisan-tinker
+- make dev-exec
+- make dev-stop
+- make dev-composer-install
+- dev-migrate
+
 
 
